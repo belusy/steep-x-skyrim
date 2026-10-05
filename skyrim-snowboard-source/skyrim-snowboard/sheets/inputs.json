@@ -1,0 +1,13 @@
+{
+  "columns": ["id", "name", "key", "context", "verified"],
+  "rows": [
+    {"id": "steer_left", "name": "Steer left", "key": "A", "context": "ground", "verified": false},
+    {"id": "steer_right", "name": "Steer right", "key": "D", "context": "ground", "verified": false},
+    {"id": "brake", "name": "Brake", "key": "S", "context": "ground", "verified": false},
+    {"id": "jump", "name": "Jump / pop", "key": "Space", "context": "ground", "verified": false},
+    {"id": "spin_left", "name": "Spin left", "key": "Q", "context": "air", "verified": false},
+    {"id": "spin_right", "name": "Spin right", "key": "E", "context": "air", "verified": false},
+    {"id": "grab", "name": "Grab board", "key": "F", "context": "air", "verified": false},
+    {"id": "toggle_board", "name": "Equip / stow board", "key": "B", "context": "any", "verified": false}
+  ]
+}

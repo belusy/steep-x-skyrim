@@ -1,0 +1,6 @@
+{
+  "columns": ["id", "name", "board", "worldspace", "start_pos", "finish_pos", "par_time_s", "verified"],
+  "rows": [
+    {"id": "throat_run", "name": "Throat of the World Run", "board": "basic_board", "par_time_s": 120, "verified": false}
+  ]
+}

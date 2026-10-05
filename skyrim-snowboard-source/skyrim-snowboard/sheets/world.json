@@ -1,0 +1,6 @@
+{
+  "columns": ["id", "units_per_meter", "gravity_ms2", "verified"],
+  "rows": [
+    {"id": "skyrim", "units_per_meter": 70.0, "gravity_ms2": 9.81, "verified": false}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "columns": ["id", "purpose", "method", "game_version", "address", "verified"],
+  "rows": [
+    {"id": "player_move_override", "purpose": "Take over player movement while the board is equipped", "method": "ASI plugin hooking the player character controller update", "verified": false},
+    {"id": "read_ground", "purpose": "Read terrain height, slope and surface material under the rider", "method": "ASI plugin raycast / terrain query", "verified": false},
+    {"id": "read_input", "purpose": "Read key state while riding", "method": "ASI plugin input polling", "verified": false},
+    {"id": "equip_board", "purpose": "Detect board equipped, show board model on the player", "method": "To be decided after inspecting the game", "verified": false},
+    {"id": "snow_surface", "purpose": "Decide whether the surface under the rider counts as snow", "method": "Material / landscape texture lookup", "verified": false}
+  ]
+}

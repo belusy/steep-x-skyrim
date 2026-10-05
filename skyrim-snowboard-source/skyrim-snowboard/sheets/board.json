@@ -1,0 +1,6 @@
+{
+  "columns": ["id", "name", "gravity_scale", "friction_snow", "friction_other", "brake_drag", "min_slope_deg", "max_speed", "steer_rate_deg_s", "carve_grip", "turn_speed_ref", "jump_impulse", "air_control", "air_spin_rate_deg_s", "verified"],
+  "rows": [
+    {"id": "basic_board", "name": "Basic Snowboard", "gravity_scale": 1.0, "friction_snow": 0.06, "friction_other": 1.2, "brake_drag": 1.5, "min_slope_deg": 4.0, "max_speed": 30.0, "steer_rate_deg_s": 90.0, "carve_grip": 1.0, "turn_speed_ref": 6.0, "jump_impulse": 5.5, "air_control": 1.0, "air_spin_rate_deg_s": 360.0, "verified": false}
+  ]
+}

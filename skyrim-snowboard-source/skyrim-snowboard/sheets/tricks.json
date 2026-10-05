@@ -1,0 +1,15 @@
+{
+  "columns": ["id", "name", "kind", "input", "rotation_deg", "min_air_time_s", "points", "verified"],
+  "rows": [
+    {"id": "spin_180_l", "name": "Frontside 180", "kind": "spin", "input": "spin_left", "rotation_deg": 180, "min_air_time_s": 0.5, "points": 100, "verified": false},
+    {"id": "spin_180_r", "name": "Backside 180", "kind": "spin", "input": "spin_right", "rotation_deg": 180, "min_air_time_s": 0.5, "points": 100, "verified": false},
+    {"id": "spin_360_l", "name": "Frontside 360", "kind": "spin", "input": "spin_left", "rotation_deg": 360, "min_air_time_s": 0.9, "points": 300, "verified": false},
+    {"id": "spin_360_r", "name": "Backside 360", "kind": "spin", "input": "spin_right", "rotation_deg": 360, "min_air_time_s": 0.9, "points": 300, "verified": false},
+    {"id": "spin_540_l", "name": "Frontside 540", "kind": "spin", "input": "spin_left", "rotation_deg": 540, "min_air_time_s": 1.4, "points": 600, "verified": false},
+    {"id": "spin_540_r", "name": "Backside 540", "kind": "spin", "input": "spin_right", "rotation_deg": 540, "min_air_time_s": 1.4, "points": 600, "verified": false},
+    {"id": "spin_720_l", "name": "Frontside 720", "kind": "spin", "input": "spin_left", "rotation_deg": 720, "min_air_time_s": 1.9, "points": 1000, "verified": false},
+    {"id": "spin_720_r", "name": "Backside 720", "kind": "spin", "input": "spin_right", "rotation_deg": 720, "min_air_time_s": 1.9, "points": 1000, "verified": false},
+    {"id": "grab_method", "name": "Method Grab", "kind": "grab", "input": "grab", "rotation_deg": 0, "min_air_time_s": 0.9, "points": 300, "verified": false},
+    {"id": "grab_basic", "name": "Indy Grab", "kind": "grab", "input": "grab", "rotation_deg": 0, "min_air_time_s": 0.4, "points": 150, "verified": false}
+  ]
+}

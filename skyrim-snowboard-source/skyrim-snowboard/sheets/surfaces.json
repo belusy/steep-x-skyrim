@@ -1,0 +1,9 @@
+{
+  "columns": ["id", "name", "friction_mult", "steer_mult", "verified"],
+  "rows": [
+    {"id": "packed", "name": "Packed snow", "friction_mult": 1.0, "steer_mult": 1.0, "verified": false},
+    {"id": "powder", "name": "Deep powder", "friction_mult": 2.5, "steer_mult": 0.7, "verified": false},
+    {"id": "ice", "name": "Ice", "friction_mult": 0.3, "steer_mult": 0.6, "verified": false},
+    {"id": "crust", "name": "Wind crust", "friction_mult": 0.8, "steer_mult": 0.9, "verified": false}
+  ]
+}

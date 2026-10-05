@@ -1,0 +1,6 @@
+{
+  "columns": ["id", "combo_step", "combo_max", "wipeout_penalty", "wipeout_speed_keep", "min_air_time_for_score_s", "landing_tolerance_deg", "verified"],
+  "rows": [
+    {"id": "default", "combo_step": 0.25, "combo_max": 5, "wipeout_penalty": 200, "wipeout_speed_keep": 0.3, "min_air_time_for_score_s": 0.35, "landing_tolerance_deg": 35.0, "verified": false}
+  ]
+}
