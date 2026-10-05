@@ -25,7 +25,7 @@ Skyrim Special Edition and Steep installed, point it at this folder, and ask it 
    validate_recipe and one_click_check, take a real screenshot of the game running, then test in Melty.
 
 ## Listing decisions still open (ask the owner, do not guess)
-- Required game: Skyrim Special Edition only. Is Steep tagged as a second game, or credited as inspiration only?
+- DECIDED by the owner: tag Skyrim Special Edition only. Steep is credited as inspiration, not tagged as a required game.
 - Title, tagline, description, credits, license, and whether others may remix it.
 - Solo only (Skyrim SE has no built-in multiplayer).
 
